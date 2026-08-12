@@ -31,3 +31,17 @@ cicd-project/
 ├── test_app.py
 ├── .gitignore
 └── README.md
+
+## 📸 Screenshots
+
+### 1. Project Structure
+![Project Structure](screenshots/project-structure.png)
+
+### 2. Pytest Result
+![Pytest Result](screenshots/pytest-success.png)
+
+### 3. GitHub Repository
+![GitHub Repository](screenshots/github-repository.png)
+
+### 4. GitHub Actions CI Success
+![GitHub Actions Success](screenshots/github-actions-success.png)
